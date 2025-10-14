@@ -1,15 +1,6 @@
 # 📘 Project Title
 
 
-## 🧑‍💻 Team Members
-- Benjamin van Altena – benjamin.van.altena@student.uva.nl  
-- Elyanne Oey – elyanne.oey@student.uva.nl  
-- Sharanda Suttorp – sharanda.suttorp@student.uva.nl 
-- Lisanne Wallaard - lisanne.wallaard@student.uva.nl
-
-## 👥 Supervising TAs
-- Yubao Tang (Main Supervisor)
-- Owen de Jong (Co-supervisor)
 
 
 ---
